@@ -61,11 +61,11 @@ plugins:
 author:
   name   : "Zeyu Ma"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "undergrad majoring in Computer Science and Physics at JHU, actively looking for a job and awesome ideas for a new project"
+  bio    : "Undergraduate majoring in Computer Science and Physics at JHU, actively looking for a job and awesome ideas for a new project"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://frozenpeak0701.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
