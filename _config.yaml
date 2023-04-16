@@ -23,6 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+# og_image: "/assets/images/deathnote.jpg" 
 
 # Build settings
 markdown: kramdown
@@ -60,7 +61,7 @@ plugins:
 author:
   name   : "Zeyu Ma"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Lazy Undergrad at JHU"
+  bio    : "Lazy Undergrad majoring in Computer Science and Physics at JHU, actively looking for a job and awesome ideas for a new project"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -93,6 +94,8 @@ defaults:
       path: ""
       type: posts
     values:
+      header:
+        image: /assets/images/your-image-filename.jpg
       layout: single
       author_profile: true
       read_time: true
@@ -106,6 +109,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://github.com/FrozenPeak0701"
+    - "https://www.facebook.com/profile.php?id=100072798159381"
+    - "https://www.linkedin.com/in/zeyu-ma-506442221/"
 
 category_archive:
   type: liquid
