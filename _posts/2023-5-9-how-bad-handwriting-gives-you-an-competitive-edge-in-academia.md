@@ -6,6 +6,7 @@ categories:
 tags:
   - Interesting but useless 
 ---
+
 I finished my final exam today afternoon in "Introduction to Probability" class that I never attended in-person because I had another class at the exact same time. Also the class is pretty easy as I already know most of the stuff since primary school. 
 
 You are probably wondering how does it have anything to do with my topic today. Well my girlfriend is also in that class and I was borrowing her notes to cram for the exam. I noticed that her '6' looks really like '&sigma;' (the greek letter sigma). I personally **NEED** to make my writing **CLEAR**, maybe a little compulsive even. But as for my girlfriend, I doubt she even care about if other people can differetiate her '&sigma;' from '6' (it's probably not even possible in her writing). And this is not the first time I notice that. I also find her '&alpha;' exactly like an 'a' sometimes. Also, her handwriting is super small. Thus, reading her handwriting is the worst reading experience ever. If it were up to me, people who write that kind of indifferentiable text lacks a certain degree of rigor and should not be allow into academia. Yet she is and so is Psychology. But apperantly they are allowed into academia and there's a reason for that.
