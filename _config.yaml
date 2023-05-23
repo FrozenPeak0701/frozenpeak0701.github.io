@@ -29,7 +29,7 @@ repository: "FrozenPeak0701/frozenpeak0701.github.io" # GitHub username/repo-nam
 comments:
   provider: "utterances"
   utterances:
-    repo: "FrozenPeak0701/frozenpeak0701.github.io/"
+    # repo: "FrozenPeak0701/frozenpeak0701.github.io/"
     theme: "github-light" # "github-dark"
     issue_term: "pathname"
     label: "Comment" # Optional - must be existing label.
