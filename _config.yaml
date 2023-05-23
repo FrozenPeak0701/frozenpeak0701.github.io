@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Zeyu Ma
+title: Zeyu's Awesome Site
+title_separator: "|"
+name: "Zeyu Ma"
 email: ma.zeyu2002@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _ fig.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description:  # this means to ignore newlines until "baseurl:"
+  "Zeyu Ma's personal website where he posts interesting stuff to random strangers."
+url: "https://frozenpeak0701.github.io/"
 twitter_username: username
-github_username: username
+github_username: FrozenPeak0701
 minimal_mistakes_skin: default
 search: true
 # og_image: "/assets/images/deathnote.jpg" 
@@ -103,6 +104,14 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
+      comments:
+        provider: "utterances"
+        utterances:
+          theme: "github-light" # "github-dark"
+          issue_term: "pathname"
+          label: "Comment" # Optional - must be existing label.
+          # repository: # GitHub username/repo-name e.g. "frozenpeak0701/frozenpeak0701.github.io"
   # _pages
   - scope:
       path: "_pages"
