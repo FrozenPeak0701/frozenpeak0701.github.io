@@ -8,7 +8,7 @@ header:
 
 Hi! My name is Zeyu Ma. I am currently an undergraduate studying Computer Science and Physics at Johns Hopkins University. 
 
-My current interests are game scripting, machine learning (computer vision), and quantum stuff.
+My current interests are game scripting, machine learning (computer vision), and quantum field theory, which is what I am currently learning.
 
 Projects currently working on: Genshin Scripting, MusicCopilot. Prospect Projects: Starcraft2 AI
 
