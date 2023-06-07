@@ -10,6 +10,7 @@ Hi! My name is Zeyu Ma. I am currently an undergraduate studying Computer Scienc
 
 My current interests are game scripting, machine learning (computer vision), and quantum field theory, which is what I am currently learning.
 
-Projects currently working on: Genshin Scripting, MusicCopilot. Prospect Projects: Starcraft2 AI
+Projects currently working on: Genshin Scripting, MusicCopilot, A cool RTS Game.
+Prospect Projects: Starcraft2 AI
 
 Header image is from Anime series "Death Note".
