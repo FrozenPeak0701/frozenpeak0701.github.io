@@ -70,7 +70,7 @@ plugins:
 author:
   name   : "Zeyu Ma"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Undergraduate majoring in Computer Science and Physics at JHU, actively looking for a job and awesome ideas for a new project"
+  bio    : "Undergraduate majoring in Physics and Computer Science at JHU"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
