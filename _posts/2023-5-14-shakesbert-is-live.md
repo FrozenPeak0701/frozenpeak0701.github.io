@@ -6,7 +6,7 @@ categories:
 tags:
   - Machine Learning 
   - My Own Projects
-link: http://shakesbert.com
+# link: http://shakesbert.com
 ---
 
 ShakesBERT was our final project for the class Machine Learning: Deep Learning. In our project, we tried to finetune a BERT model in general poetry dataset then in Shakespeare poetry dataset to do masked task. Originally, we wanted to build a multimodal BERT model with both semantic embeddings and phonetic embeddings (meters), but we failed to find a pre-trained BERT model that has these two embeddings available on the internet and thus we had to use a normal BERT. A phonetic embedding with information about how the words sound would make sense since this is a big component in word choice in poems. But we just had to make do with a normal BERT("bert-base-uncased") given the time and resources we have (which is not enough to train a transformer model all over again).

@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
 header:
     image: "/assets/images/death-note.png" 
     image_description: "From Anime series Death Note, Photo : https://www.reddit.com/r/deathnote/comments/fdzq5k/death_note_banner_fan_art/"

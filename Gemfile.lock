@@ -28,13 +28,14 @@ GEM
       http_parser.rb (~> 0)
     ethon (0.16.0)
       ffi (>= 1.15.0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x86-mingw32)
     execjs (2.8.1)
     faraday (2.7.4)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
-    ffi (1.15.5-x86-mingw32)
+    ffi (1.15.5)
     filesize (0.2.0)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -228,6 +229,8 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.18.0)
+    nokogiri (1.14.3-x64-mingw-ucrt)
+      racc (~> 1.4)
     nokogiri (1.14.3-x86-mingw32)
       racc (~> 1.4)
     octokit (4.25.1)
@@ -266,12 +269,14 @@ GEM
       tzinfo (>= 1.0.0)
     unf (0.1.4)
       unf_ext
-    unf_ext (0.0.8.2-x86-mingw32)
+    unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
     verbal_expressions (0.1.5)
     wdm (0.1.1)
+    webrick (1.8.1)
 
 PLATFORMS
+  x64-mingw-ucrt
   x86-mingw32
 
 DEPENDENCIES
@@ -285,6 +290,7 @@ DEPENDENCIES
   jemoji
   tzinfo-data
   wdm (~> 0.1.0)
+  webrick
 
 BUNDLED WITH
    2.3.22

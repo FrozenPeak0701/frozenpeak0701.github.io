@@ -72,9 +72,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Undergraduate majoring in Physics and Computer Science at JHU"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://frozenpeak0701.github.io/"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://frozenpeak0701.github.io/"
     # - label: "Resume"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://livejohnshopkins-my.sharepoint.com/:b:/g/personal/zma22_jh_edu/EXsOoEGsw3BMoTnSwOyGfDsBMVcKI2ckNjbpCXq6eGOa_g?e=UIUVdm"
@@ -91,17 +91,17 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/zeyu-ma-506442221/"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  # footer:
+  #   links:
+  #     - label: "Twitter"
+  #       icon: "fab fa-fw fa-twitter-square"
+  #       url: "https://twitter.com/"
+  #     - label: "GitHub"
+  #       icon: "fab fa-fw fa-github"
+  #       url: "https://github.com/"
+  #     - label: "Instagram"
+  #       icon: "fab fa-fw fa-instagram"
+  #       url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -138,3 +138,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+atom_feed:
+  hide: true
