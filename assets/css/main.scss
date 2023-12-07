@@ -32,3 +32,22 @@ h3 {
 }
 
 /* ... and so on for h4, h5, h6 */
+.archive__item-title a {
+    font-family: 'Helvetica Neue', Arial, sans-serif; /* Modern, clean sans-serif font */
+    font-size: 24px; /* Adjust the size to your preference */
+    color: #333; /* Standard, readable font color */
+    /* Add any additional styling you want here */
+}
+
+.archive__item-date {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 14px;
+    color: #666; /* Lighter color for the date */
+    margin-bottom: 10px;
+}
+
+// .archive__item-excerpt {
+//     font-family: 'Helvetica Neue', Arial, sans-serif;
+//     font-size: 16px;
+//     color: #444;
+// }
