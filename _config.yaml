@@ -24,7 +24,7 @@ twitter_username: username
 github_username: FrozenPeak0701
 minimal_mistakes_skin: default
 search: true
-# og_image: "/assets/images/deathnote.jpg" 
+og_image: "/assets/images/deathnote.jpg" 
 repository: "FrozenPeak0701/frozenpeak0701.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 comments:
   provider: "utterances"
