@@ -7,6 +7,7 @@ tags:
   - Machine Learning 
   - My Own Projects
 image: /assets/images/2023-12-7-genshinyolo23_1.png
+excerpt: "Some good old image recognition for popular game Genshin Impact!"
 ---
 
 <img src="/assets/images/2023-12-7-genshinyolo23_1.png" alt="yolo result">

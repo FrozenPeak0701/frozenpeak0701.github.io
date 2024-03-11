@@ -1,11 +1,12 @@
 ---
-title: "My notes for reading Complex Analysis (Princeton Lectures in Analysis, No. 2)"
-date: 2023-12-07T12:45:30-04:00
+title: "Notes for Complex Analysis"
+date: 2024-3-10T11:00:00-04:00
 categories:
   - notes
 tags:
   - Math
 image: /assets/images/2024-3-10-complex-analysis-notes_1.jpg
+excerpt: "Notes for reading Complex Analysis (Princeton Lectures in Analysis, No. 2)"
 ---
 
 <img src="/assets/images/2024-3-10-complex-analysis-notes_1.jpg" alt="book cover">

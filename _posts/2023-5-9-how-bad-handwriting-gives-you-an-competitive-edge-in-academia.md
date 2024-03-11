@@ -4,7 +4,8 @@ date: 2023-05-9T18:02:30-04:00
 categories:
   - blog
 tags:
-  - Interesting but useless 
+  - Interesting but useless
+excerpt: "Bad Handwriting might be detrimental to your mental health!"
 ---
 
 I finished my final exam today afternoon in "Introduction to Probability" class that I never attended in-person because I had another class at the exact same time. Also the class is pretty easy as I already know most of the stuff since primary school. 
