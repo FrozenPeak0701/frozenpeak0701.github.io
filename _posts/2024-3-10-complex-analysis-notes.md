@@ -11,5 +11,5 @@ image: /assets/images/2024-3-10-complex-analysis-notes_1.jpg
 <img src="/assets/images/2024-3-10-complex-analysis-notes_1.jpg" alt="book cover">
 
 From this day forward, I'll be reading the book $\textit{Complex Analysis (Princeton Lectures in Analysis, No. 2)}$ for at least 1 hour
-per day until I finish the book. I'll put anything I thought interesting/worth noting on this page.
+per day until I finish the book. I'll put anything I thought interesting/important on this page.
 
