@@ -25,3 +25,14 @@ $f = u + iv$, f is complex differentiable at a complex point iff(if and only if)
 
 A function that is $\textbf{analytic}$ i.e. has a power series expansion at every point on $\Omega$ is also holomorphic here. The reverse is also true.
 
+A $\textbf{primitive}$ for $f$ on $\Omega$ is a functioin $F$ that is holomorphic on $\Omega$ and such that $F'(z)=f(z)$ for all $z \in \Omega$. \\
+If a continuous function $f$ has a primitive $F \in \Omega$ and $\gamma$ is a curve in $\Omega$ that begins at $\omega_1$ and ends at $\omega_2$, then
+
+$$\int_\gamma f(z) dz = F(\omega_2) - F(\omega_1)$$
+
+Thus, it follows naturally that if $\gamma$ is a closed curve in an open set $\Omega$, and $f$ is continuous and has a primitive in $\Omega$, then
+
+$$\int_\gamma f(z)dz = 0$$
+
+Ch2 \\
+a
