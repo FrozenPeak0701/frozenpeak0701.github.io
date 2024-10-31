@@ -35,4 +35,9 @@ Thus, it follows naturally that if $\gamma$ is a closed curve in an open set $\O
 $$\int_\gamma f(z)dz = 0$$
 
 Ch2 \\
-a
+Updates on Oct. 31 2024: So I quit reading the book as I feel I have pretty much got what I need as a physicist, for now at least. If I found something 
+useful I'll put it up here.
+
+$\textbf{Cauchy's integral formula}$:
+
+$$f(a) = \frac{1}{2 \pi i} \oint_{\gamma} \frac{f(z)}{z - a} \, dz.$$
