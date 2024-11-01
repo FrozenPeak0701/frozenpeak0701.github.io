@@ -18,3 +18,5 @@ Also credits to my amazing teammates who made the success of this project possib
 
 
 Note: it can be quite slow (not because the model is slow) since I am on a tight budget for the servers.
+
+Update: Domain expired and I took down the site since the website isn't getting visits at all :/
