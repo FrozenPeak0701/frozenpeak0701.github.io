@@ -21,7 +21,7 @@ i.e. the existence of the first derivative will guarantee the existence of deriv
 $\textbf{Cauchy-Riemann}$ equations: 
 $$\frac{\partial u}{\partial x} = \frac{\partial v}{\partial y} \ and
  \ \frac{\partial u}{\partial y} = -\frac{\partial v}{\partial x}$$ (equivalent to $\frac{\partial f}{\partial \overline{z}} = 0$)\\
-$f = u + iv$, f is complex differentiable at a complex point iff(if and only if) the partials of u and v satisfy the Cauchy-Riemann equations at that point.
+$f = u(x,y) + iv(x,y)$, $f$ is complex differentiable w.r.t. $z=x+iy$ at a complex point $z_0$ iff(if and only if) the partials of u and v satisfy the Cauchy-Riemann equations at that point.
 
 A function that is $\textbf{analytic}$ i.e. has a power series expansion at every point on $\Omega$ is also holomorphic here. The reverse is also true.
 
