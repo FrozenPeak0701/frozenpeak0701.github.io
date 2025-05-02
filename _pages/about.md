@@ -8,7 +8,7 @@ title: "About me"
 
 Hi! My name is Zeyu Ma. I am currently in the Master's program in Physics at Northwestern University. I received my B.S. in Physics (with Honors) with a second major in Computer Science at Johns Hopkins University.
 
-My current research interests are in Condensed Matter, more specifically in Quantum Information related topics.
+My current research interest is in Condensed Matter, more specifically in Quantum Information related topics. My current project is on time evolution simulations of one-dimensional quantum many-body systems using density matrix renormalization group (DMRG) related algorithms.
 
 My hobbies are playing chess, biking, stargazing, and playing video games. I also enjoy some casual coding and watching/performing magic tricks from time to time.
 <!-- Header image is from Anime series "Death Note". -->
