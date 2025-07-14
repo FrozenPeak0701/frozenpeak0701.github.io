@@ -67,4 +67,4 @@ So to summarize, $L_{max}=f(\phi_{max})=\frac{h}{sin(\phi_{max})cos^2(\phi_{max}
 
 <div style="text-align: center;"><img src="/assets/images/summarize_bowl.png" alt="Summarize Bowl" width="500"></div>
 
-* We are discussing shape of interior of the bowl and of course more structure on the outer surface can be added for maintaining balance and other purposes etc. e.g. the orange part in the graph above.
+* Only the shape of the interior of the bowl is being discussed here and, of course, more structure on the outer surface can be added for balance and other purposes etc. e.g. the orange support structure in the graph above.
