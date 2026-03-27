@@ -46,7 +46,7 @@ $$
 + \cdots
 $$
 
-Let $ x \in \mathbb{R} $ and $ \hat{A}^2 = \mathbb{1} $:
+Let $ x \in \mathbb{R} $ and $ \hat{A}^2 = \mathbb{I} $:
 
 \begin{equation}
   \exp(i \hat{A} x) = \cos(x) \mathbb{I} + i\, \sin(x) \hat{A} \label{expiax}
