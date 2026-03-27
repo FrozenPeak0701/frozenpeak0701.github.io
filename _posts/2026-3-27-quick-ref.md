@@ -1,6 +1,6 @@
 ---
 title: "Commutation Relations and Useful Formulae"
-date: 2026-3-27T6:00:00-06:00
+date: 2026-3-27T5:00:00-06:00
 categories:
   - notes
 tags:
