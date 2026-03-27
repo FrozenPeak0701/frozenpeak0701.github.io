@@ -13,7 +13,7 @@ excerpt: "Quick reference"
 [x_i,p_j] = i \hbar \delta_{ij}
 \end{align\*}
 
-## Pauli Matrices
+### Pauli Matrices
 
 $$
 \sigma_x=\begin{pmatrix}0&1\\1&0\end{pmatrix},\qquad
