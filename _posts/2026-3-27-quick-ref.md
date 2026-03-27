@@ -1,5 +1,5 @@
 ---
-title: "Commutation Relations and Useful Formulae"
+title: "Commutations and Formulae"
 date: 2026-3-27T6:00:00-05:00
 categories:
   - notes
