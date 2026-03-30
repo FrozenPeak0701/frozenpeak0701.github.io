@@ -13,6 +13,15 @@ excerpt: "Quick reference"
 [x_i,p_j] = i \hbar \delta_{ij}
 \end{align\*}
 
+$$
+a = \sqrt{\frac{m\omega}{2\hbar}} \left( x + \frac{i p}{m\omega} \right), \qquad
+a^\dagger = \sqrt{\frac{m\omega}{2\hbar}} \left( x - \frac{i p}{m\omega} \right),
+$$
+
+$$
+[a, a^\dagger] = \left( \frac{1}{2\hbar} \right) \left( -i[x,p] + i[p,x] \right) = 1.
+$$
+
 ### Pauli Matrices
 
 $$
@@ -36,18 +45,17 @@ $$
 # Formulae
 
 **Baker–Hausdorff lemma**
-
 $$
+\begin{aligned}
 \exp(iG\lambda)\, A\, \exp(-iG\lambda)
-= A + i\lambda[G,A]
-+ \frac{i^2\lambda^2}{2!}[G,[G,A]]
-+ \cdots
-+ \frac{i^n \lambda^n}{n!}[G,[G,[G,\dots[G,A]]]\dots]
-+ \cdots
+=& A + i\lambda[G,A] + \frac{i^2\lambda^2}{2!}[G,[G,A]] + \\
+&\cdots + \frac{i^n \lambda^n}{n!}[G,[G,[G,\dots[G,A]]]\dots] + \cdots
+\end{aligned}
 $$
+
+Special case where $[G,A] = \pm A$,  $ \exp(iG\lambda)\, A\, \exp(-iG\lambda) = A \exp(\pm i\lambda) $.
 
 Let $ x \in \mathbb{R} $ and $ \hat{A}^2 = \mathbb{I} $:
-
 \begin{equation}
   \exp(i \hat{A} x) = \cos(x) \mathbb{I} + i\, \sin(x) \hat{A} \label{expiax}
 \end{equation}
