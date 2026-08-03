@@ -24,4 +24,4 @@ Second thought, if you are at home right now, you'll probably start looking from
 
 May 20, 2023 update: We found the key at last in one of my girlfriend's pants...
 
-Sept 29, 2025 update: At the time when I was writing this blog post, I was not aware of the concepts and methodology in Stochastic processes. So please don't take anything in this post seriously (even though I choose not to archive this blog for record purposes as it's my very first blog post). It's just some naive analysis I thought was interesting when I was younger.
+Sept 29, 2025 update: At the time when I was writing this blog post, I was not aware of the concepts and methodology in stochastic processes. So please don't take anything in this post seriously (even though I choose not to archive this blog for record purposes as it's my very first blog post). It's just some naive analysis I thought was interesting when I was younger.
