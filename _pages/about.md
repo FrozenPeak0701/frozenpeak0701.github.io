@@ -6,7 +6,7 @@ title: "About me"
 #     image_description: "From Anime series Death Note, Photo : https://www.reddit.com/r/deathnote/comments/fdzq5k/death_note_banner_fan_art/"
 ---
 
-Hi! My name is Zeyu Ma. I am currently in the Master's program in Physics at Northwestern University. I received my B.S. in Physics (with Honors) with a second major in Computer Science at Johns Hopkins University. I am starting my PhD in Physics at Northwestern starting Sept 2026.
+Hi! My name is Zeyu Ma. I am a Physics PhD student at Northwestern University. I received my B.S. in Physics (with Honors) with a second major in Computer Science at Johns Hopkins University.
 
 My current research interest is in quantum many-body physics and Quantum Information related topics. My current project is studying the reduced dynamics of a probe spin weakly coupled to a 1D transverse-field Ising model (TFIM) using DMRG-related methods based on matrix product state representations.
 
